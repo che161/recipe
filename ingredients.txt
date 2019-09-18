@@ -2,3 +2,4 @@ Salt
 Flour
 Water
 Sugur
+Red bean
